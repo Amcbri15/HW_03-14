@@ -1,5 +1,4 @@
 # HW_03-14
 
-Adventure Game!!!
+This Repo contains my completed text based game, TheDeadWalking. There is also an incomplete version of my group's roman calculator with my completed parser inside under "TestParse".
 
-This program is a simple text based game that prompts the user to make a series of choices to navigate a portal maze.
